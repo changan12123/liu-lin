@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\dell\desktop\3.14\main.cpp
+	<iostream>
+
+1553424621 source:c:\users\dell\desktop\3.14\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
+1553424592 c:\users\dell\desktop\3.14\include\employee.h
+	<iostream>
+	<string>
+
